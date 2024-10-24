@@ -1,0 +1,15 @@
+:root {
+    --first-color: #963be7;
+    --second-color: #3b0962;
+    --terceary-color: #fd2c9a;
+}
+
+*{
+
+}
+
+body{
+    width: 98vw;
+    height: 100vh;
+    display: flex;
+}
